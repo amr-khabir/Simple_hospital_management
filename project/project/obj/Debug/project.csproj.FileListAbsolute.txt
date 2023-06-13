@@ -1,0 +1,2 @@
+E:\amr\c#\project\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\صور\مجلد جديد\c#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
